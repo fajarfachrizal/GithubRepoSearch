@@ -3,4 +3,6 @@
     <string name="type_query">Type a query for a GitHub</string>
     <string name="your_result_show_here">click and result will show here</string>
     <string name="make_search">make a search frist please</string>
+    <string name="search">Search</string>
+    <string name="toast_massage">search clicked</string>
 </resources>
